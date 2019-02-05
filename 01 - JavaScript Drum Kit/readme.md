@@ -1,10 +1,9 @@
-<<<<<<< HEAD
+
 
 I'm learning programming with wesbos and his project: JavaScript30
 =======
 I'm learning programming with wesbos and his project: JavaScript30.
 
->>>>>>> be8b42277f6022f5556f444b8b74f2a32d35c369
 I made with them: JavaScript Drum Kit.
 
 When you hit the corresponding key on your keyboard it's going to do two things. First of all,
